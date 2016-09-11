@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shannon Sullivan - Assignment0</string>
+    <string name="fibNum">The Fibonacci sum for the number at index %1$d is %2$d.</string>
+    <string name="fibNumException">Fibonacci sequence number must be larger than 0. You entered %d</string>
+</resources>
